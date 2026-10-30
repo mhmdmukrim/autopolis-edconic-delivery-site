@@ -2,7 +2,7 @@
   "slug": "edconic-delivery-site",
   "kind": "service",
   "name": "Edconic — delivery site",
-  "generatedAt": "2026-10-30T02:31:20.368Z",
+  "generatedAt": "2026-10-30T05:04:36.813Z",
   "files": [
     {
       "path": "index.html",
@@ -22,7 +22,7 @@
     {
       "path": "README.md",
       "bytes": 2956,
-      "sha256": "1a64c7d8d375173ccddcb2d7bc4e80c2668f61bfe74b60ca63713088e0aa3d98"
+      "sha256": "8363587fa8e2f2c46a39bfef2b56acaea3947a5a0793973fba61f9aa7693db7d"
     },
     {
       "path": "contact.php",
@@ -31,8 +31,8 @@
     },
     {
       "path": "research.md",
-      "bytes": 3161,
-      "sha256": "2c4608294f86d7c6c1004e878f207667fd76421ca5fefcc4f800abbab4e5416c"
+      "bytes": 3215,
+      "sha256": "6fbc16eb0ec16dcc82ff35f4e0753bb726d749b9ce33b1de180b05a2f39094e6"
     }
   ]
 }
