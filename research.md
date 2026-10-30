@@ -6,7 +6,7 @@ Query: `front website template`
 - Deliverable: Front End Developer
 - Audience: as described by the client in the brief
 - Tone: luxe
-- Brief read: deterministic (no model configured)
+- Brief read: deterministic (no model configured) · model note: no AI provider configured
 
 ## Requirements
 - Job Title: Front-End Developer Location: Fully Remote (US) Department: Global Enrollment Marketing and Sales Reports to: Director of Web Development Classification: Regular, Full-time FLSA Status: Exempt Prepared by: Global Head of Creative Prepared Date: 10/1/26 Salary range: Â $85,000â$100,000 About Edconic Edconic is a leading player in the alternative, experiential education space.
@@ -24,9 +24,9 @@ Query: `front website template`
 
 ## Public web results
 - [Front Website Templates - ThemeForest](https://themeforest.net/search/front)
-- [Frontend Website Templates | ThemeForest](https://themeforest.net/search/frontend)
 - [1500+ Best Website Templates (HTML & CSS) 2026 - Colorlib](https://colorlib.com/wp/templates/)
-- [Free Website Templates | TemplateMonster](https://www.templatemonster.com/free-website-templates/)
+- [Frontend Website Templates | ThemeForest](https://themeforest.net/search/frontend)
 - [2000+ Free HTML5 Website Templates - Wix.com](https://www.wix.com/website/templates)
+- [1600+ Free Bootstrap HTML5 CSS3 Website Templates | High Quality ...](https://themewagon.com/theme-price/free/)
 
 _The deliverable was built from this reading — not from a pre-made template._
